@@ -1,0 +1,10 @@
+Metricas de 1.jpg: 
+	Medidas de imagen:
+	Alto: 3024
+	Ancho: 2268
+	Canales: 3
+	Tamano: 20575296
+Tiempo de ejecucion: 1.051920
+Tiempo de carga: 1.550881
+Tiempo de generacion: 11.673472
+Tiempo de generacion csv: 0.515309

@@ -1,0 +1,10 @@
+Metricas de imaRGB_1.jpg: 
+	Medidas de imagen:
+	Alto: 2456
+	Ancho: 3680
+	Canales: 3
+	Tamano: 27114240
+Tiempo de ejecucion: 0.493113
+Tiempo de carga: 1.469954
+Tiempo de generacion: 9.340862
+Tiempo de generacion csv: 0.595088

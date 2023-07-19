@@ -1,0 +1,15 @@
+Metricas de 1.jpg: 
+	Medidas de imagen:
+	Alto: 3024
+	Ancho: 2268
+	Canales: 3
+	Tamano: 20575296
+Tiempo de ejecucion en serie: 1.051920
+Tiempo de ejecucion en paralelo: 0.575573
+Numero de procesadores: 4
+Speedup: 1.827605
+Eficiencia: 0.456901
+Overhead: -0.119087
+Tiempo de carga: 1.550881
+Tiempo de generacion promedio: 11.673472
+Tiempo de generacion csv promedio: 0.515309

@@ -1,0 +1,15 @@
+Metricas de 2.jpg: 
+	Medidas de imagen:
+	Alto: 5472
+	Ancho: 3648
+	Canales: 3
+	Tamano: 59885568
+Tiempo de ejecucion en serie: 3.069781
+Tiempo de ejecucion en paralelo: 1.161136
+Numero de procesadores: 4
+Speedup: 2.643774
+Eficiencia: 0.660943
+Overhead: -0.477161
+Tiempo de carga: 4.158956
+Tiempo de generacion promedio: 29.325411
+Tiempo de generacion csv promedio: 1.327185

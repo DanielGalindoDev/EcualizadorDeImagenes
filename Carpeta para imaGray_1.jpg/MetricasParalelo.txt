@@ -1,0 +1,10 @@
+Metricas de imaGray_1.jpg: 
+	Medidas de imagen:
+	Alto: 500
+	Ancho: 750
+	Canales: 1
+	Tamano: 375000
+Tiempo de ejecucion: 0.003910
+Tiempo de carga: 0.141654
+Tiempo de generacion: 0.156256
+Tiempo de generacion csv: 0.013701

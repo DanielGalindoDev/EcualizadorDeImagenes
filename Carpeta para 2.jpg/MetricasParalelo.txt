@@ -1,0 +1,10 @@
+Metricas de 2.jpg: 
+	Medidas de imagen:
+	Alto: 5472
+	Ancho: 3648
+	Canales: 3
+	Tamano: 59885568
+Tiempo de ejecucion: 1.161136
+Tiempo de carga: 4.158956
+Tiempo de generacion: 29.349681
+Tiempo de generacion csv: 1.333154

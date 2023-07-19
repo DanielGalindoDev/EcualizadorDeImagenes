@@ -1,0 +1,15 @@
+Metricas de imaRGB_1.jpg: 
+	Medidas de imagen:
+	Alto: 2456
+	Ancho: 3680
+	Canales: 3
+	Tamano: 27114240
+Tiempo de ejecucion en serie: 1.480819
+Tiempo de ejecucion en paralelo: 0.493113
+Numero de procesadores: 4
+Speedup: 3.002999
+Eficiencia: 0.750750
+Overhead: -0.246926
+Tiempo de carga: 1.469954
+Tiempo de generacion promedio: 10.090298
+Tiempo de generacion csv promedio: 0.613870
